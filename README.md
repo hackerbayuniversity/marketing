@@ -17,11 +17,11 @@ HackerBay University is 4 month program that's completely free, has a project ba
 
 ### 250 characters
 
-Fyipe is a Status Page, Monitoring and On-call software all combined into one. Fyipe replaces services like StatusPage.io, PagerDuty,Pingdom with one simple platform that lets you monitor your apps and alert your team instantly when downtime happens.
+HackerBay University is the program that's completely free for participants and students. It's 100% remote. You work on battle tested tools and frameworks, talk to real customers and ship real code to production.
 
 ### 500 characters
 
-Fyipe is a Status Page, Monitoring and On-call software all combined into one. Today, Enterprises and Startups use a services like StatusPage.io, Status.io, etc. for a hosted status page, PagerDuty for On-call alerts during downtime, and Pingdom for website monitoring. Fyipe replaces all of these and combines them into one. You have everything you need to monitor your apps, website and API's and more, and alert your team instantly when downtime happens. 
+HackerBay University is the program that's completely free for participants and students. It's 100% remote. You work on battle tested tools and frameworks, talk to real customers and ship real code to production. Our partners are comfortable hiring developers who work remote and they get someone who delivers from Day 1. 
 
 ## Target Market
 
@@ -29,20 +29,11 @@ Fyipe is a Status Page, Monitoring and On-call software all combined into one. T
 
 #### (250 characters)
 
-Fyipe is currently being used by hundreds of startups and enterprises around the world. From Banking, Healthcare, SaaS, E-commerce, manufacturing, education and more - We have customers in most industry vericals and we support customers of all sizes. 
+We ideally work with university students who are in their last year of study and who know basics of programming. We've also accepted participants in the past who were looking to switch a job in tech, or who want to update themselves with battle tested tools that are new and currently being used by forward thinking companies.  
 
 #### (200 characters)
 
-Fyipe is currently being used by hundreds of startups and enterprises around the world. We have customers in most industry vericals and we support customers of all sizes. 
-
-### Who are we ideally suited for? 
-
-#### (250 characters)
-
-We are ideally suited for teams who want to monitor web apps, API's or any service on the internet and have the team alerted when downtime happens. We're suited for scenerios where downtime resolution is critial for the business, customers and the bottom line. 
-
-#### (200 characters)
-We are ideally suited for teams who want to monitor web apps, API's or any service on the internet and have the team alerted when downtime happens.
+We ideally work with university students who are in their last year of study and who know basics of programming. 
 
 ## Logos
 
