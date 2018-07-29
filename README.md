@@ -8,11 +8,10 @@ This repo is open and transparent to the world. If you're looking for marketing 
 Tech Education. Done right. For free. 
 
 ### Small Description (140 characters)
-Fyipe gives you a beautiful status page for your business, monitors your web apps, and alerts your team when downtime happens. 
+HackerBay University is 4 month program that's completely free, has a project based curriculum, lets participants work on leading open source projects, talk to real customers and ship code.
 
 ### Description (500 characters)
-Fyipe gives you a beautiful and customizable status page for your online business which helps improve transparency with your customers and cuts support costs.
-We also monitors your website, web apps, API's and more and alerts your team via call, SMS and email when downtime happens. 
+HackerBay University is 4 month program that's completely free, has a project based curriculum, lets participants work on leading open source projects, talk to real customers and ship code. At the end of the program, we connect participants with tech employers and work with them every step of the way to make sure they get a great job.
 
 ## Product Differentiators
 
@@ -45,10 +44,6 @@ We are ideally suited for teams who want to monitor web apps, API's or any servi
 #### (200 characters)
 We are ideally suited for teams who want to monitor web apps, API's or any service on the internet and have the team alerted when downtime happens.
 
-### Integrations 
-
-Integrate with 1000+ enterprise class apps and services with [Zapier](https://zapier.com).  
-
 ## Logos
 
 Please find them [here](/logos)
@@ -60,13 +55,6 @@ Please find them [here](/partner-logos)
 ## Cover Images
 
 Please find them [here](/covers)
-
-## Reviews
-
-- AlternativeTo: https://alternativeto.net/software/fyipe/
-- Capterra: https://www.capterra.com/p/176513/Fyipe/
-- G2Crowd: https://www.g2crowd.com/products/fyipe/reviews
-- StackShare: https://stackshare.io/fyipe
 
 ## Social Media
 
